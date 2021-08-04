@@ -1,0 +1,31 @@
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+h1{
+    color: lightcoral;
+    border: 10px solid dimgray;
+    background-color: dimgrey;
+}
+body{
+    background-color: aliceblue;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: turquoise ;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+    width:310px;
+    background-color: thistle;
+    border-radius: 40px;
+    border-color: black;
+    border: 5px solid;
+}
